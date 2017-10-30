@@ -1,0 +1,52 @@
+4
+RegionalManager
+1
+Michael Scott
+5
+Fight Charles
+10
+Marry Holly
+10
+Form Michael Scott Paper Company
+9
+Lead meeting
+8
+Make Commercial
+8
+10
+8
+AssistantRegionalManager
+2
+Dwight Kurt Schrute III
+3
+Help Michael Scott
+8
+Start Fire Drill
+5
+Start Gun Safety Presentation
+10
+5
+SalesAssociate
+3
+James Duncan Halpert
+2
+Sell paper
+3
+Say Hi to Pam
+10
+5
+3
+100x white paper
+Sabre Printer
+Sabre Copier
+Receptionist
+4
+Pamela Morgan Beesly
+3
+Record Threat Level Midnight
+5
+Make Copies
+3
+Set up printer
+5
+5
